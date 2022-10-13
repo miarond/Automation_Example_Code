@@ -7,6 +7,12 @@ the destination timezone.
 The script will also work interactively, allowing you to request a list of valid timezones
 and specify the necessary information through interactive prompts.
 
+This script utilizes the free API from Time API:
+
+https://timeapi.io
+
+https://timeapi.io/swagger/index.html
+
 ## Package Requirements
 
 This script requires the installation of external Python package(s) from the Python Package
