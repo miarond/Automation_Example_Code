@@ -64,7 +64,7 @@ def get_time_calculation(payload):
     returns: result (dict) - JSON formatted response data
     """
     result = requests.post('https://timeapi.io/api/Conversion/ConvertTimeZone', headers={'Content-Type': 'application/json'}, 
-                            data=json.dumps(payload)).json()
+                            json=payload).json()
     return result
 
 
