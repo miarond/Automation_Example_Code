@@ -1,3 +1,4 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/miarond/Automation_Example_Code)
 # Automation Example Code
 
 This repository contains a collection of example code in various formats which help demonstrate automation capabilities and API usage.
