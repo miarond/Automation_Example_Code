@@ -1,0 +1,1 @@
+{"fromTimezone": "America/Chicago", "fromDateTime": "2022-11-01T10:00:00", "toTimeZone": "America/Phoenix", "conversionResult": {"year": 2022, "month": 11, "day": 1, "hour": 8, "minute": 0, "seconds": 0, "milliSeconds": 0, "dateTime": "2022-11-01T08:00:00", "date": "11/01/2022", "time": "08:00", "timeZone": "America/Phoenix", "dstActive": false}}
