@@ -19,7 +19,7 @@ pip install -r requirements.txt
 To run the `test_unittest_tzconverter.py` script, execute the following command:
 
 ```bash
-python3 test_unittest_tzconverter.py`
+python3 test_unittest_tzconverter.py
 ```
 
 Unittest is a built-in Python package that comes preinstalled with Python 3.  This script also uses the `requests-mock` package, which must be installed from PyPi.org.  Running this script will cause the individual unit tests to be auto-discovered and run in sequence, and the output on your command line should look similar to this:
